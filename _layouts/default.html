@@ -18,9 +18,9 @@
       <header>
         <img src="{{ '/assets/images/face.png' | relative_url }}" alt="Photo" style="max-width:150px;">
         <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
-        <p class="header">{{ site.author.affiliation }}</p>
-        <p class="header">{{ site.author.email }}</p>
         <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
+        <p class="header">{{ site.author.affiliation }}</p>
+        <p class="header"><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></p>
 
         <ul>
           {% if site.show_downloads %}
@@ -29,6 +29,7 @@
           {% endif %}
           <!-- <li><a class="buttons github" href="{{ site.github.repository_url }}">View On GitHub</a></li> -->
            <li><a class="buttons orcid" href="https://orcid.org/{{ site.author.orcid }}">ORCID</a></li>
+           <li><a class="buttons cv" href="{{ /assets/cv.pdf | relative_url }}">CV</a></li>
         </ul>
 
         {% if site.github.is_project_page %}
