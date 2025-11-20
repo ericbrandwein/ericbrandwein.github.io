@@ -1,6 +1,5 @@
 ---
-layout: home
-title: Home
+layout: default
 ---
 
 ![Photo](/assets/images/photo.svg){: alt="Photo" style="max-width:200px;" }
