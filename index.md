@@ -14,9 +14,9 @@ layout: default
 - **Thesis title**: On the thinness of trees and other graph classes
 - **Abstract**:
 The thinness of a graph is a width parameter that generalizes some properties of interval graphs, which are exactly the graphs of thinness one. Many NP-complete problems can be solved in polynomial time for graphs with bounded thinness, given a suitable
-representation of the graph. In this work we present a constructive \(O(n \log(n))\)-time
+representation of the graph. In this work we present a constructive $O(n \log(n))$-time
 algorithm to compute the thinness for any given tree, along with an optimal consistent solution (ordering and partition). We use some intermediate results of this construction to improve known bounds of the thinness in some special trees. We
-also show the exact thinness of crown graphs \(CR_n\), and give new upper bounds for the thinness of other graph classes (including grids \(GR_r\)). Finally, we propose some heuristics to construct a consistent solution for some more general graphs.
+also show the exact thinness of crown graphs $CR_n$, and give new upper bounds for the thinness of other graph classes (including grids $GR_r$). Finally, we propose some heuristics to construct a consistent solution for some more general graphs.
 
 ## Publications
 ### Preprints
