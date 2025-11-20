@@ -4,5 +4,10 @@
 @import "{{ site.theme }}";
 
 a.orcid {
-  background: url(../images/orcid.png) no-repeat 1px;
+    background-image: url('../images/orcid.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: inline-block;
+    width: 16px;
+    height: 16px;
 }
