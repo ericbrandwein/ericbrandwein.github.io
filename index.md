@@ -7,7 +7,7 @@ layout: default
 *Institution*: Universidad de Buenos Aires<br>
 *Advisor*: [Flavia Bonomo](https://staff.dc.uba.ar/fbonomo/)<br>
 *Co-advisor*: [Ignasi Sau Valls](https://www.lirmm.fr/~sau/)<br>
-*Dissertation topic*: Parameterized complexity of graph thinness
+*Dissertation topic*: Graph thinness and related parameters.
 
 ### **2015 – 2022**: Master's in Computer Science (Licenciatura en Ciencias de la Computación)
 *Institution*: Universidad de Buenos Aires<br>
@@ -48,10 +48,17 @@ layout: default
 | **Manuel Robert** | Licenciado en Matemática, Departamento de Matemática, Universidad de Buenos Aires, Buenos Aires, Argentina | Extra-official co-supervisor | Thinness of line graphs | to be defended on November 2025 |
 | **Ayelén Dinkel** | Licenciada en Ciencias de Datos, Departamento de Computación, Universidad de Buenos Aires, Buenos Aires, Argentina | Co-supervisor | Thinness of co-bipartite graphs conditioned to specific orderings of the vertices | defended on December 2024 |
 
-## Other activities
-**November 2025**: Organizing committee for LAGOS 2025<br>
-Reviewer for LAGOS 2025, ISAAC 2024, and IPEC 2024.<br>
-**March 2015 - March 2017 and March 2021 - July 2022**: Software Engineer in Mercadolibre, Medallia, Mulesoft, and Wildlife Studios, Buenos Aires, Argentina.
+## Committees
+Organizing committee for LAGOS 2025.
+
+## Article refereeing
+Reviewer for LAGOS 2025, ISAAC 2024, and IPEC 2024.
+
+## Other work experience
+**January 2022 - July 2022**: Software Engineer, Wildlife Studios, Buenos Aires, Argentina.<br>
+**August 2021 -- December 2021**: Software Engineering MTS, Mulesoft, Buenos Aires, Argentina.<br>
+**March 2021 -- August 2021**: Software Engineer II, Medallia, Buenos Aires, Argentina.<br>
+**March 2015 -- March 2017**: Software Engineer, Mercadolibre, Buenos Aires, Argentina.
 
 ## Languages
 **Spanish**: Native<br>
