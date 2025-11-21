@@ -75,10 +75,10 @@ Reviewer for [LAGOS 2025](https://lagos.mat.br/lagos2025/), [ISAAC 2024](https:/
 - **PhD Scholarship**. UBACyT, Argentina, 2023 - 2024, 20220230100009BA.
 
 ## Other work experience
-- **January 2022 - July 2022**: Software Engineer, Wildlife Studios, Buenos Aires, Argentina.<br>
-- **August 2021 -- December 2021**: Software Engineering MTS, Mulesoft, Buenos Aires, Argentina.<br>
-- **March 2021 -- August 2021**: Software Engineer II, Medallia, Buenos Aires, Argentina.<br>
-- **March 2015 -- March 2017**: Software Engineer, Mercadolibre, Buenos Aires, Argentina.
+- **January 2022 - July 2022**: *Software Engineer*, Wildlife Studios, Buenos Aires, Argentina.<br>
+- **August 2021 -- December 2021**: *Software Engineering MTS*, Mulesoft, Buenos Aires, Argentina.<br>
+- **March 2021 -- August 2021**: *Software Engineer II*, Medallia, Buenos Aires, Argentina.<br>
+- **March 2015 -- March 2017**: *Software Engineer*, Mercadolibre, Buenos Aires, Argentina.
 
 ## Languages
 - **Spanish**: Native<br>
