@@ -41,7 +41,7 @@ layout: default
 
 ## Students
 
-| **Name** | **Degree** | **Role** | **Topic** | **Status** |
+| Name | Degree | Role | Topic | Status |
 |----------|------------|----------|-----------|------------|
 | **Ezequiel Maidanik** | Licenciado en Ciencias de la Computación, Departamento de Computación, Universidad de Buenos Aires, Buenos Aires, Argentina | Supervisor | Thinness of split graphs | in progress |
 | **Bárbara Rivero** | Licenciada en Ciencias de la Computación, Departamento de Computación, Universidad de Buenos Aires, Buenos Aires, Argentina | Supervisor | Trivially perfect graphs with proper thinness 2 | in progress |
