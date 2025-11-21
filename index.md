@@ -56,7 +56,7 @@ Part of the organizing committee for [LAGOS 2025](https://lagos.mat.br/lagos2025
 Reviewer for [LAGOS 2025](https://lagos.mat.br/lagos2025/), [ISAAC 2024](https://sites.google.com/view/isaac2024/home), and [IPEC 2024](https://algo-conference.org/2024/ipec/).
 
 ## Grants and scholarships
-- **Research visit**, covering accommodation and meals. LIRMM, Montpellier, France, October 2024.<br>
+- **Research visit**, covering accommodation and meals. LIRMM, Montpellier, France, October 2025.<br>
 - **+Viajes 2024**, covering travel expenses to Ceará, Brazil. Universidad de Buenos Aires, Argentina, 2024.<br>
 - **Research visit**, covering accommodation and meals. LIRMM, Montpellier, France, August 2024.<br>
 - **PhD Scholarship**. CONICET, Argentina, 2024 - 2029, PIP 11220200100084CO.<br>
