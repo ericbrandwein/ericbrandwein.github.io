@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Eric Brandwein
 ---
 
 ## About me
