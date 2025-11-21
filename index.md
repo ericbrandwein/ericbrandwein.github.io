@@ -4,40 +4,40 @@ layout: default
 
 ## Studies
 ### **2023 - present**: PhD in Computer Science (in progress)
-*Institution*: Universidad de Buenos Aires<br>
-*Advisor*: [Flavia Bonomo](https://staff.dc.uba.ar/fbonomo/)<br>
-*Co-advisor*: [Ignasi Sau Valls](https://www.lirmm.fr/~sau/)<br>
-*Dissertation topic*: Graph thinness and related parameters.
+- *Institution*: Universidad de Buenos Aires<br>
+- *Advisor*: [Flavia Bonomo](https://staff.dc.uba.ar/fbonomo/)<br>
+- *Co-advisor*: [Ignasi Sau Valls](https://www.lirmm.fr/~sau/)<br>
+- *Dissertation topic*: Graph thinness and related parameters.
 
 ### **2015 – 2022**: Master's in Computer Science (Licenciatura en Ciencias de la Computación)
-*Institution*: Universidad de Buenos Aires<br>
-*Advisor*: [Flavia Bonomo](https://staff.dc.uba.ar/fbonomo/)<br>
-*Thesis title*: On the thinness of trees and other graph classes<br>
-*Abstract*: The thinness of a graph is a width parameter that generalizes some properties of interval graphs, which are exactly the graphs of thinness one. Many NP-complete problems can be solved in polynomial time for graphs with bounded thinness, given a suitable representation of the graph. In this work we present a constructive $O(n \log(n))$-time algorithm to compute the thinness for any given tree, along with an optimal consistent solution (ordering and partition). We use some intermediate results of this construction to improve known bounds of the thinness in some special trees. We also show the exact thinness of crown graphs $CR_n$, and give new upper bounds for the thinness of other graph classes (including grids $GR_r$). Finally, we propose some heuristics to construct a consistent solution for some more general graphs.
+- *Institution*: Universidad de Buenos Aires<br>
+- *Advisor*: [Flavia Bonomo](https://staff.dc.uba.ar/fbonomo/)<br>
+- *Thesis title*: On the thinness of trees and other graph classes<br>
+- *Abstract*: The thinness of a graph is a width parameter that generalizes some properties of interval graphs, which are exactly the graphs of thinness one. Many NP-complete problems can be solved in polynomial time for graphs with bounded thinness, given a suitable representation of the graph. In this work we present a constructive $O(n \log(n))$-time algorithm to compute the thinness for any given tree, along with an optimal consistent solution (ordering and partition). We use some intermediate results of this construction to improve known bounds of the thinness in some special trees. We also show the exact thinness of crown graphs $CR_n$, and give new upper bounds for the thinness of other graph classes (including grids $GR_r$). Finally, we propose some heuristics to construct a consistent solution for some more general graphs.
 
 ## Publications
 ### Preprints
-**Kernelization dichotomies for hitting minors under structural parameterizations**. Marin Bougeret, Eric Brandwein, Ignasi Sau. Sent for review.<br>
-**Computing parameters that generalize interval graphs using restricted modular partitions**. Flavia Bonomo-Braberman, Eric Brandwein, Ignasi Sau. Sent for review.
+- **Kernelization dichotomies for hitting minors under structural parameterizations**. Marin Bougeret, Eric Brandwein, Ignasi Sau. Sent for review.<br>
+- **Computing parameters that generalize interval graphs using restricted modular partitions**. Flavia Bonomo-Braberman, Eric Brandwein, Ignasi Sau. Sent for review.
 
 ### In conferences
-**On the Thinness of Trees** ([DOI](https://doi.org/10.1007/978-3-031-18530-4_14)). Flavia Bonomo-Braberman, Eric Brandwein, Carolina Lucía Gonzalez, Agustín Sansone (2022). Combinatorial Optimization. ISCO 2022. Lecture Notes in Computer Science, vol 13526. Springer, Cham.
+- **On the Thinness of Trees** ([DOI](https://doi.org/10.1007/978-3-031-18530-4_14)). Flavia Bonomo-Braberman, Eric Brandwein, Carolina Lucía Gonzalez, Agustín Sansone (2022). Combinatorial Optimization. ISCO 2022. Lecture Notes in Computer Science, vol 13526. Springer, Cham.
 
 ### In journals
-**On the thinness of trees** ([DOI](https://doi.org/10.1016/j.dam.2024.12.027)). Flavia Bonomo-Braberman, Eric Brandwein, Carolina Lucía Gonzalez, Agustín Sansone (2025), Discrete Applied Mathematics, Volume 365, Pages 39-60, ISSN 0166-218X.<br>
-**Thinness and its variations on some graph families and coloring graphs of bounded thinness** ([DOI](https://doi.org/10.1051/ro/2024033)). Flavia Bonomo-Braberman, Eric Brandwein, Fabiano de S. Oliveira, Moysés S. Sampaio Jr., Agustín Sansone, Jayme Luiz Szwarcfiter (2024). RAIRO-Operations Research, 58(2), 1681-1702.
+- **On the thinness of trees** ([DOI](https://doi.org/10.1016/j.dam.2024.12.027)). Flavia Bonomo-Braberman, Eric Brandwein, Carolina Lucía Gonzalez, Agustín Sansone (2025), Discrete Applied Mathematics, Volume 365, Pages 39-60, ISSN 0166-218X.<br>
+- **Thinness and its variations on some graph families and coloring graphs of bounded thinness** ([DOI](https://doi.org/10.1051/ro/2024033)). Flavia Bonomo-Braberman, Eric Brandwein, Fabiano de S. Oliveira, Moysés S. Sampaio Jr., Agustín Sansone, Jayme Luiz Szwarcfiter (2024). RAIRO-Operations Research, 58(2), 1681-1702.
 
 ## Teaching
 
-**August 2024 - February 2025, August 2025 - Present**: *University Teaching Assistant (Jefe de Trabajos Prácticos)*, Algoritmos y Estructuras de Datos III, Departamento de Computación, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Buenos Aires, Argentina<br>
-**August 2024 - February 2025**: *University Teaching Assistant*, Algoritmos y Estructura de Datos, Departamento de Ingeniería, Universidad de San Andrés, Buenos Aires, Argentina<br>
-**October 2023 -- August 2024**: *University Teaching Assistant (Ayudante de 1ra)*, Algoritmos y Estructuras de Datos III, Departamento de Computación, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Buenos Aires, Argentina<br>
-**February 2019 - February 2020**: *University Teaching Assistant (Ayudante de 2da)*, Algoritmos y Estructuras de Datos I, Departamento de Computación, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Buenos Aires, Argentina
+- **August 2024 - February 2025, August 2025 - Present**: *University Teaching Assistant (Jefe de Trabajos Prácticos)*, Algoritmos y Estructuras de Datos III, Departamento de Computación, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Buenos Aires, Argentina<br>
+- **August 2024 - February 2025**: *University Teaching Assistant*, Algoritmos y Estructura de Datos, Departamento de Ingeniería, Universidad de San Andrés, Buenos Aires, Argentina<br>
+- **October 2023 -- August 2024**: *University Teaching Assistant (Ayudante de 1ra)*, Algoritmos y Estructuras de Datos III, Departamento de Computación, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Buenos Aires, Argentina<br>
+- **February 2019 - February 2020**: *University Teaching Assistant (Ayudante de 2da)*, Algoritmos y Estructuras de Datos I, Departamento de Computación, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Buenos Aires, Argentina
 
 ## Talks
-**Kernelization dichotomies for hitting minors under structural parameterizations** ([Slides](/assets/talks/ALGCo-2025.pdf)). Séminaire ALGCo, LIRMM, Montpellier, France, October 2025, joint work with Marin Bougeret and Ignasi Sau.<br>
-**Parameterized algorithms for thinness via the cluster module number** ([Slides](/assets/talks/LAWCG-2024.pdf)). 11th Latin American Workshop on Cliques in Graphs, Ceará, Brazil, October 2024, joint work with Flavia Bonomo and Ignasi Sau.<br>
-**Parameterized algorithms for thinness via the cluster module number** ([Slides](/assets/talks/SINFIN-2024.pdf)). Workshop SINFIN, Ciudad Autónoma de Buenos Aires, Argentina, March 2024, joint work with Flavia Bonomo and Ignasi Sau.
+- **Kernelization dichotomies for hitting minors under structural parameterizations** ([Slides](/assets/talks/ALGCo-2025.pdf)). Séminaire ALGCo, LIRMM, Montpellier, France, October 2025, joint work with Marin Bougeret and Ignasi Sau.<br>
+- **Parameterized algorithms for thinness via the cluster module number** ([Slides](/assets/talks/LAWCG-2024.pdf)). 11th Latin American Workshop on Cliques in Graphs, Ceará, Brazil, October 2024, joint work with Flavia Bonomo and Ignasi Sau.<br>
+- **Parameterized algorithms for thinness via the cluster module number** ([Slides](/assets/talks/SINFIN-2024.pdf)). Workshop SINFIN, Ciudad Autónoma de Buenos Aires, Argentina, March 2024, joint work with Flavia Bonomo and Ignasi Sau.
 
 ## Students
 
@@ -56,23 +56,23 @@ Part of the organizing committee for [LAGOS 2025](https://lagos.mat.br/lagos2025
 Reviewer for [LAGOS 2025](https://lagos.mat.br/lagos2025/), [ISAAC 2024](https://sites.google.com/view/isaac2024/home), and [IPEC 2024](https://algo-conference.org/2024/ipec/).
 
 ## Grants and scholarships
-**Research visit**, covering accommodation and meals. LIRMM, Montpellier, France, October 2024.<br>
-**+Viajes 2024**, covering travel expenses to Ceará, Brazil. Universidad de Buenos Aires, Argentina, 2024.<br>
-**Research visit**, covering accommodation and meals. LIRMM, Montpellier, France, August 2024.<br>
-**PhD Scholarship**. CONICET, Argentina, 2024 - 2029, PIP 11220200100084CO.<br>
-**PhD Scholarship**. UBACyT, Argentina, 2023 - 2024, 20220230100009BA.
+- **Research visit**, covering accommodation and meals. LIRMM, Montpellier, France, October 2024.<br>
+- **+Viajes 2024**, covering travel expenses to Ceará, Brazil. Universidad de Buenos Aires, Argentina, 2024.<br>
+- **Research visit**, covering accommodation and meals. LIRMM, Montpellier, France, August 2024.<br>
+- **PhD Scholarship**. CONICET, Argentina, 2024 - 2029, PIP 11220200100084CO.<br>
+- **PhD Scholarship**. UBACyT, Argentina, 2023 - 2024, 20220230100009BA.
 
 ## Other work experience
-**January 2022 - July 2022**: Software Engineer, Wildlife Studios, Buenos Aires, Argentina.<br>
-**August 2021 -- December 2021**: Software Engineering MTS, Mulesoft, Buenos Aires, Argentina.<br>
-**March 2021 -- August 2021**: Software Engineer II, Medallia, Buenos Aires, Argentina.<br>
-**March 2015 -- March 2017**: Software Engineer, Mercadolibre, Buenos Aires, Argentina.
+- **January 2022 - July 2022**: Software Engineer, Wildlife Studios, Buenos Aires, Argentina.<br>
+- **August 2021 -- December 2021**: Software Engineering MTS, Mulesoft, Buenos Aires, Argentina.<br>
+- **March 2021 -- August 2021**: Software Engineer II, Medallia, Buenos Aires, Argentina.<br>
+- **March 2015 -- March 2017**: Software Engineer, Mercadolibre, Buenos Aires, Argentina.
 
 ## Languages
-**Spanish**: Native<br>
-**English**: Fluent (CAE, University of Cambridge)<br>
-**Italian**: Basic knowledge<br>
-**French**: Basic knowledge
+- **Spanish**: Native<br>
+- **English**: Fluent (CAE, University of Cambridge)<br>
+- **Italian**: Basic knowledge<br>
+- **French**: Basic knowledge
 
 ## Research interests
 
