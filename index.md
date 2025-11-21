@@ -21,11 +21,11 @@ layout: default
 **Computing parameters that generalize interval graphs using restricted modular partitions**. Flavia Bonomo-Braberman, Eric Brandwein, Ignasi Sau. Sent for review.
 
 ### In conferences
-**On the Thinness of Trees**. Flavia Bonomo-Braberman, Eric Brandwein, Carolina Lucía Gonzalez, Agustín Sansone (2022). Combinatorial Optimization. ISCO 2022. Lecture Notes in Computer Science, vol 13526. Springer, Cham. https://doi.org/10.1007/978-3-031-18530-4_14.
+**On the Thinness of Trees**. Flavia Bonomo-Braberman, Eric Brandwein, Carolina Lucía Gonzalez, Agustín Sansone (2022). Combinatorial Optimization. ISCO 2022. Lecture Notes in Computer Science, vol 13526. Springer, Cham. [DOI](https://doi.org/10.1007/978-3-031-18530-4_14).
 
 ### In journals
-**On the thinness of trees**. Flavia Bonomo-Braberman, Eric Brandwein, Carolina Lucía Gonzalez, Agustín Sansone (2025), Discrete Applied Mathematics, Volume 365, Pages 39-60, ISSN 0166-218X, https://doi.org/10.1016/j.dam.2024.12.027.<br>
-**Thinness and its variations on some graph families and coloring graphs of bounded thinness**. Flavia Bonomo-Braberman, Eric Brandwein, Fabiano de S. Oliveira, Moysés S. Sampaio Jr., Agustín Sansone, Jayme Luiz Szwarcfiter (2024). RAIRO-Operations Research, 58(2), 1681-1702. https://doi.org/10.1051/ro/2024033.
+**On the thinness of trees**. Flavia Bonomo-Braberman, Eric Brandwein, Carolina Lucía Gonzalez, Agustín Sansone (2025), Discrete Applied Mathematics, Volume 365, Pages 39-60, ISSN 0166-218X, [DOI](https://doi.org/10.1016/j.dam.2024.12.027).<br>
+**Thinness and its variations on some graph families and coloring graphs of bounded thinness**. Flavia Bonomo-Braberman, Eric Brandwein, Fabiano de S. Oliveira, Moysés S. Sampaio Jr., Agustín Sansone, Jayme Luiz Szwarcfiter (2024). RAIRO-Operations Research, 58(2), 1681-1702. [DOI](https://doi.org/10.1051/ro/2024033).
 
 ## Teaching
 
