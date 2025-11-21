@@ -4,16 +4,16 @@ layout: default
 
 ## Studies
 ### **2023 - present**: PhD in Computer Science (in progress)
-- *Institution*: Universidad de Buenos Aires<br>
-- *Advisor*: [Flavia Bonomo](https://staff.dc.uba.ar/fbonomo/)<br>
-- *Co-advisor*: [Ignasi Sau Valls](https://www.lirmm.fr/~sau/)<br>
-- *Dissertation topic*: Graph thinness and related parameters.
+- **Institution**: Universidad de Buenos Aires<br>
+- **Advisor**: [Flavia Bonomo](https://staff.dc.uba.ar/fbonomo/)<br>
+- **Co-advisor**: [Ignasi Sau Valls](https://www.lirmm.fr/~sau/)<br>
+- **Dissertation topic**: Graph thinness and related parameters.
 
 ### **2015 – 2022**: Master's in Computer Science (Licenciatura en Ciencias de la Computación)
-- *Institution*: Universidad de Buenos Aires<br>
-- *Advisor*: [Flavia Bonomo](https://staff.dc.uba.ar/fbonomo/)<br>
-- *Thesis title*: On the thinness of trees and other graph classes.<br>
-- *Abstract*: The thinness of a graph is a width parameter that generalizes some properties of interval graphs, which are exactly the graphs of thinness one. Many NP-complete problems can be solved in polynomial time for graphs with bounded thinness, given a suitable representation of the graph. In this work we present a constructive $O(n \log(n))$-time algorithm to compute the thinness for any given tree, along with an optimal consistent solution (ordering and partition). We use some intermediate results of this construction to improve known bounds of the thinness in some special trees. We also show the exact thinness of crown graphs $CR_n$, and give new upper bounds for the thinness of other graph classes (including grids $GR_r$). Finally, we propose some heuristics to construct a consistent solution for some more general graphs.
+- **Institution**: Universidad de Buenos Aires<br>
+- **Advisor**: [Flavia Bonomo](https://staff.dc.uba.ar/fbonomo/)<br>
+- **Thesis**: [On the thinness of trees and other graph classes](https://staff.dc.uba.ar/fbonomo/docs/tesis/tesis_agus_eric.pdf).<br>
+- **Abstract**: The thinness of a graph is a width parameter that generalizes some properties of interval graphs, which are exactly the graphs of thinness one. Many NP-complete problems can be solved in polynomial time for graphs with bounded thinness, given a suitable representation of the graph. In this work we present a constructive $O(n \log(n))$-time algorithm to compute the thinness for any given tree, along with an optimal consistent solution (ordering and partition). We use some intermediate results of this construction to improve known bounds of the thinness in some special trees. We also show the exact thinness of crown graphs $CR_n$, and give new upper bounds for the thinness of other graph classes (including grids $GR_r$). Finally, we propose some heuristics to construct a consistent solution for some more general graphs.
 
 ## Publications
 ### Preprints
