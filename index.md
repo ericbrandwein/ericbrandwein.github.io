@@ -29,15 +29,15 @@ layout: default
 
 ## Teaching
 
-**August 2024 - February 2025, August 2025 - Present**: University Teaching Assistant (Jefe de Trabajos Prácticos), Algoritmos y Estructuras de Datos III, Departamento de Computación, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Buenos Aires, Argentina<br>
-**August 2024 - February 2025**: University Teaching Assistant, Algoritmos y Estructura de Datos, Departamento de Ingeniería, Universidad de San Andrés, Buenos Aires, Argentina<br>
-**October 2023 -- August 2024**: University Teaching Assistant (Ayudante de 1ra), Algoritmos y Estructuras de Datos III, Departamento de Computación, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Buenos Aires, Argentina<br>
-**February 2019 - February 2020**: University Teaching Assistant (Ayudante de 2da), Algoritmos y Estructuras de Datos I, Departamento de Computación, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Buenos Aires, Argentina
+**August 2024 - February 2025, August 2025 - Present**: *University Teaching Assistant (Jefe de Trabajos Prácticos)*, Algoritmos y Estructuras de Datos III, Departamento de Computación, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Buenos Aires, Argentina<br>
+**August 2024 - February 2025**: *University Teaching Assistant*, Algoritmos y Estructura de Datos, Departamento de Ingeniería, Universidad de San Andrés, Buenos Aires, Argentina<br>
+**October 2023 -- August 2024**: *University Teaching Assistant (Ayudante de 1ra)*, Algoritmos y Estructuras de Datos III, Departamento de Computación, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Buenos Aires, Argentina<br>
+**February 2019 - February 2020**: *University Teaching Assistant (Ayudante de 2da)*, Algoritmos y Estructuras de Datos I, Departamento de Computación, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Buenos Aires, Argentina
 
 ## Talks
-**Kernelization dichotomies for hitting minors under structural parameterizations**, Séminaire ALGCo, LIRMM, Montpellier, France, October 2025, joint work with Marin Bougeret and Ignasi Sau.<br>
-**Parameterized algorithms for thinness via the cluster module number**, 11th Latin American Workshop on Cliques in Graphs, Ceará, Brazil, October 2024, joint work with Flavia Bonomo and Ignasi Sau.<br>
-**Parameterized algorithms for thinness via the cluster module number**, Workshop SINFIN, Ciudad Autónoma de Buenos Aires, Argentina, March 2024, joint work with Flavia Bonomo and Ignasi Sau.
+**Kernelization dichotomies for hitting minors under structural parameterizations**. Séminaire ALGCo, LIRMM, Montpellier, France, October 2025, joint work with Marin Bougeret and Ignasi Sau.<br>
+**Parameterized algorithms for thinness via the cluster module number**. 11th Latin American Workshop on Cliques in Graphs, Ceará, Brazil, October 2024, joint work with Flavia Bonomo and Ignasi Sau.<br>
+**Parameterized algorithms for thinness via the cluster module number**. Workshop SINFIN, Ciudad Autónoma de Buenos Aires, Argentina, March 2024, joint work with Flavia Bonomo and Ignasi Sau.
 
 ## Students
 | **Name** | **Degree** | **Role** | **Topic** | **Status** |
