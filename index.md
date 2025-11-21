@@ -50,10 +50,10 @@ layout: default
 | **Ayelén Dinkel** | Licenciada en Ciencias de Datos, Departamento de Computación, Universidad de Buenos Aires, Buenos Aires, Argentina | Co-supervisor | Thinness of co-bipartite graphs conditioned to specific orderings of the vertices | defended on December 2024 |
 
 ## Committees
-Organizing committee for LAGOS 2025.
+Part of the organizing committee for [LAGOS 2025](https://lagos.mat.br/lagos2025/).
 
 ## Article refereeing
-Reviewer for LAGOS 2025, ISAAC 2024, and IPEC 2024.
+Reviewer for [LAGOS 2025](https://lagos.mat.br/lagos2025/), [ISAAC 2024](https://sites.google.com/view/isaac2024/home), and [IPEC 2024](https://algo-conference.org/2024/ipec/).
 
 ## Other work experience
 **January 2022 - July 2022**: Software Engineer, Wildlife Studios, Buenos Aires, Argentina.<br>
