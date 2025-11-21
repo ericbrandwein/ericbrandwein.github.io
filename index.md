@@ -40,6 +40,7 @@ layout: default
 **Parameterized algorithms for thinness via the cluster module number** ([Slides](/assets/talks/SINFIN-2024.pdf)). Workshop SINFIN, Ciudad Autónoma de Buenos Aires, Argentina, March 2024, joint work with Flavia Bonomo and Ignasi Sau.
 
 ## Students
+
 | **Name** | **Degree** | **Role** | **Topic** | **Status** |
 |----------|------------|----------|-----------|------------|
 | **Ezequiel Maidanik** | Licenciado en Ciencias de la Computación, Departamento de Computación, Universidad de Buenos Aires, Buenos Aires, Argentina | Supervisor | Thinness of split graphs | in progress |
