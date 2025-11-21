@@ -27,7 +27,6 @@ Part of the [graphs research group](https://www-2.dc.uba.ar/grupinv/grafos/) and
 
 ## Publications
 ### Preprints
-- **Kernelization dichotomies for hitting minors under structural parameterizations**. Marin Bougeret, Eric Brandwein, Ignasi Sau. Sent for review.<br>
 - **Computing parameters that generalize interval graphs using restricted modular partitions**. Flavia Bonomo-Braberman, Eric Brandwein, Ignasi Sau. Sent for review.
 
 ### In conferences
