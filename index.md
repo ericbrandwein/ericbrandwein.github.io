@@ -41,10 +41,10 @@ https://doi.org/10.48550/arXiv.2303.06070)). Flavia Bonomo-Braberman, Eric Brand
 
 ## Teaching
 
-- **August 2024 - February 2025, August 2025 - Present**: *University Teaching Assistant (Jefe de Trabajos Prácticos)*, Algoritmos y Estructuras de Datos III, Departamento de Computación, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Buenos Aires, Argentina<br>
-- **August 2024 - February 2025**: *University Teaching Assistant*, Algoritmos y Estructura de Datos, Departamento de Ingeniería, Universidad de San Andrés, Buenos Aires, Argentina<br>
-- **October 2023 -- August 2024**: *University Teaching Assistant (Ayudante de 1ra)*, Algoritmos y Estructuras de Datos III, Departamento de Computación, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Buenos Aires, Argentina<br>
-- **February 2019 - February 2020**: *University Teaching Assistant (Ayudante de 2da)*, Algoritmos y Estructuras de Datos I, Departamento de Computación, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Buenos Aires, Argentina
+- **August 2024 - February 2025, August 2025 - Present**: *Adjunct Professor (Jefe de Trabajos Prácticos)*, Algoritmos y Estructuras de Datos III, Departamento de Computación, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Buenos Aires, Argentina<br>
+- **August 2024 - February 2025**: *Teaching Assistant*, Algoritmos y Estructura de Datos, Departamento de Ingeniería, Universidad de San Andrés, Buenos Aires, Argentina<br>
+- **October 2023 -- August 2024**: *Teaching Assistant (Ayudante de 1ra)*, Algoritmos y Estructuras de Datos III, Departamento de Computación, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Buenos Aires, Argentina<br>
+- **February 2019 - February 2020**: *Teaching Assistant (Ayudante de 2da)*, Algoritmos y Estructuras de Datos I, Departamento de Computación, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Buenos Aires, Argentina
 
 ## Talks
 <!-- - **Kernelization dichotomies for hitting minors under structural parameterizations** ([Slides](/assets/talks/ALGCo-2025.pdf)). Séminaire ALGCo, LIRMM, Montpellier, France, October 2025, joint work with Marin Bougeret and Ignasi Sau.<br> -->
