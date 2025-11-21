@@ -30,7 +30,7 @@
         <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
         <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
         <p class="header">{{ site.author.affiliation }}</p>
-        <p class="header"><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></p>
+        <p class="header"><a href="mailto:{{ site.author.email }}">✉ {{ site.author.email }}</a></p>
 
         <ul>
           {% if site.show_downloads %}
