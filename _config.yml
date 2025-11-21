@@ -8,6 +8,7 @@ author:
 baseurl: "" # the subpath of your site, e.g. /repo-name
 url: "" # the base hostname & protocol for your site
 remote_theme: "pages-themes/dinky@v0.2.0"
+markdown: kramdown
 plugins:
   - jekyll-remote-theme
 
