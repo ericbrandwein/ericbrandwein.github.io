@@ -30,11 +30,14 @@ Part of the [graphs research group](https://www-2.dc.uba.ar/grupinv/grafos/) and
 - **Computing parameters that generalize interval graphs using restricted modular partitions**. Flavia Bonomo-Braberman, Eric Brandwein, Ignasi Sau. Sent for review.
 
 ### In conferences
-- **On the Thinness of Trees** ([DOI](https://doi.org/10.1007/978-3-031-18530-4_14)). Flavia Bonomo-Braberman, Eric Brandwein, Carolina Lucía Gonzalez, Agustín Sansone (2022). Combinatorial Optimization. ISCO 2022. Lecture Notes in Computer Science, vol 13526. Springer, Cham.
+- **On the Thinness of Trees** ([DOI](https://doi.org/10.1007/978-3-031-18530-4_14), [arXiv](
+https://doi.org/10.48550/arXiv.2501.11157)). Flavia Bonomo-Braberman, Eric Brandwein, Carolina Lucía Gonzalez, Agustín Sansone (2022). Combinatorial Optimization. ISCO 2022. Lecture Notes in Computer Science, vol 13526. Springer, Cham.
 
 ### In journals
-- **On the thinness of trees** ([DOI](https://doi.org/10.1016/j.dam.2024.12.027)). Flavia Bonomo-Braberman, Eric Brandwein, Carolina Lucía Gonzalez, Agustín Sansone (2025), Discrete Applied Mathematics, Volume 365, Pages 39-60, ISSN 0166-218X.<br>
-- **Thinness and its variations on some graph families and coloring graphs of bounded thinness** ([DOI](https://doi.org/10.1051/ro/2024033)). Flavia Bonomo-Braberman, Eric Brandwein, Fabiano de S. Oliveira, Moysés S. Sampaio Jr., Agustín Sansone, Jayme Luiz Szwarcfiter (2024). RAIRO-Operations Research, 58(2), 1681-1702.
+- **On the thinness of trees** ([DOI](https://doi.org/10.1016/j.dam.2024.12.027), [arXiv](
+https://doi.org/10.48550/arXiv.2501.11157)). Flavia Bonomo-Braberman, Eric Brandwein, Carolina Lucía Gonzalez, Agustín Sansone (2025), Discrete Applied Mathematics, Volume 365, Pages 39-60, ISSN 0166-218X.<br>
+- **Thinness and its variations on some graph families and coloring graphs of bounded thinness** ([DOI](https://doi.org/10.1051/ro/2024033), [arXiv](
+https://doi.org/10.48550/arXiv.2303.06070)). Flavia Bonomo-Braberman, Eric Brandwein, Fabiano de S. Oliveira, Moysés S. Sampaio Jr., Agustín Sansone, Jayme Luiz Szwarcfiter (2024). RAIRO-Operations Research, 58(2), 1681-1702.
 
 ## Teaching
 
