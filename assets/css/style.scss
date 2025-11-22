@@ -6,6 +6,15 @@
 a.orcid {
     background-image: url('../images/orcid.png');
     background-size: contain;
+    background-position-y: 1px;
+    background-repeat: no-repeat;
+}
+
+
+a.mail {
+    background-image: url('../images/mail.png');
+    background-size: 30%;
+    background-position-y: center;
     background-repeat: no-repeat;
 }
 
