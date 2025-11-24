@@ -30,6 +30,7 @@ Part of the [graphs research group](https://www-2.dc.uba.ar/grupinv/grafos/) and
 - **Computing parameters that generalize interval graphs using restricted modular partitions**. Flavia Bonomo-Braberman, Eric Brandwein, Ignasi Sau. Sent for review.
 
 ### In conferences
+- **Thinness 2 condicionada a órdenes de co-bipartición** ([Link](https://revistas.unlp.edu.ar/JAIIO/article/view/19450)) Ayelén Dinkel, Flavia Bonomo-Braberman, Eric Brandwein (2025). JAIIO, Jornadas Argentinas De Informática, 11(14), 98-111.
 - **On the Thinness of Trees** ([DOI](https://doi.org/10.1007/978-3-031-18530-4_14), [arXiv](
 https://doi.org/10.48550/arXiv.2501.11157)). Flavia Bonomo-Braberman, Eric Brandwein, Carolina Lucía Gonzalez, Agustín Sansone (2022). Combinatorial Optimization. ISCO 2022. Lecture Notes in Computer Science, vol 13526. Springer, Cham.
 
@@ -59,7 +60,7 @@ https://doi.org/10.48550/arXiv.2303.06070)). Flavia Bonomo-Braberman, Eric Brand
 | **Bárbara Rivero** | Licenciada en Ciencias de la Computación, Departamento de Computación, Universidad de Buenos Aires, Buenos Aires, Argentina | Supervisor | Trivially perfect graphs with proper thinness 2 | in progress |
 | **Manuela Martínez** | Licenciada en Ciencias de la Computación, Departamento de Computación, Universidad de Buenos Aires, Buenos Aires, Argentina | Co-supervisor | Interactive webpage for graph parameters | in progress |
 | **Manuel Robert** | Licenciado en Matemática, Departamento de Matemática, Universidad de Buenos Aires, Buenos Aires, Argentina | Extra-official co-supervisor | Thinness of line graphs | to be defended on November 2025 |
-| **Ayelén Dinkel** | Licenciada en Ciencias de Datos, Departamento de Computación, Universidad de Buenos Aires, Buenos Aires, Argentina | Co-supervisor | Thinness of co-bipartite graphs conditioned to specific orderings of the vertices | defended on December 2024 |
+| **Ayelén Dinkel** | Licenciada en Ciencias de Datos, Departamento de Computación, Universidad de Buenos Aires, Buenos Aires, Argentina | Co-supervisor | Thinness of co-bipartite graphs conditioned to specific orderings of the vertices | defended on December 2024 ([PDF](https://staff.dc.uba.ar/fbonomo/docs/tesis/Tesis_AyeD.pdf)) |
 
 ## Committees
 Part of the organizing committee for [LAGOS 2025](https://lagos.mat.br/lagos2025/).
