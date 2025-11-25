@@ -59,7 +59,7 @@ https://doi.org/10.48550/arXiv.2303.06070)). Flavia Bonomo-Braberman, Eric Brand
 | **Ezequiel Maidanik** | Licenciado en Ciencias de la Computación, Departamento de Computación, Universidad de Buenos Aires, Buenos Aires, Argentina | Supervisor | Thinness of split graphs | in progress |
 | **Bárbara Rivero** | Licenciada en Ciencias de la Computación, Departamento de Computación, Universidad de Buenos Aires, Buenos Aires, Argentina | Supervisor | Trivially perfect graphs with proper thinness 2 | in progress |
 | **Manuela Martínez** | Licenciada en Ciencias de la Computación, Departamento de Computación, Universidad de Buenos Aires, Buenos Aires, Argentina | Co-supervisor | Interactive webpage for graph parameters | in progress |
-| **Manuel Robert** | Licenciado en Matemática, Departamento de Matemática, Universidad de Buenos Aires, Buenos Aires, Argentina | Extra-official co-supervisor | Thinness of line graphs | to be defended on November 2025 |
+| **Manuel Robert** | Licenciado en Matemática, Departamento de Matemática, Universidad de Buenos Aires, Buenos Aires, Argentina | Extra-official co-supervisor | Thinness of line graphs | defended on November 2025 |
 | **Ayelén Dinkel** | Licenciada en Ciencias de Datos, Departamento de Computación, Universidad de Buenos Aires, Buenos Aires, Argentina | Co-supervisor | Thinness of co-bipartite graphs conditioned to specific orderings of the vertices | defended on December 2024 ([PDF](https://staff.dc.uba.ar/fbonomo/docs/tesis/Tesis_AyeD.pdf)) |
 
 ## Committees
