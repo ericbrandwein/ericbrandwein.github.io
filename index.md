@@ -6,7 +6,7 @@ title: Eric Brandwein
 ## About me
 
 
-PhD student and adjunct professor at the Departamento de Computación, Universidad de Buenos Aires (UBA), Argentina. My research interests include graph parameters and parameterized complexity.
+PhD student and senior teaching assistant at the Departamento de Computación, Universidad de Buenos Aires (UBA), Argentina. My research interests include graph parameters and parameterized complexity.
 
 Part of the [graphs research group](https://www-2.dc.uba.ar/grupinv/grafos/) and organizer of the [Graphs Seminar](https://web.dm.uba.ar/index.php/investigacion/seminarios/seminario-grafos) at Universidad de Buenos Aires.
 
@@ -42,7 +42,7 @@ https://doi.org/10.48550/arXiv.2303.06070)). Flavia Bonomo-Braberman, Eric Brand
 
 ## Teaching
 
-- **August 2024 - February 2025, August 2025 - Present**: *Adjunct Professor (Jefe de Trabajos Prácticos)*, Algoritmos y Estructuras de Datos III, Departamento de Computación, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Buenos Aires, Argentina<br>
+- **August 2024 - February 2025, August 2025 - Present**: *Senior Teaching Assistant (Jefe de Trabajos Prácticos)*, Algoritmos y Estructuras de Datos III, Departamento de Computación, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Buenos Aires, Argentina<br>
 - **August 2024 - February 2025**: *Teaching Assistant*, Algoritmos y Estructura de Datos, Departamento de Ingeniería, Universidad de San Andrés, Buenos Aires, Argentina<br>
 - **October 2023 -- August 2024**: *Teaching Assistant (Ayudante de 1ra)*, Algoritmos y Estructuras de Datos III, Departamento de Computación, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Buenos Aires, Argentina<br>
 - **February 2019 - February 2020**: *Teaching Assistant (Ayudante de 2da)*, Algoritmos y Estructuras de Datos I, Departamento de Computación, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Buenos Aires, Argentina
