@@ -27,6 +27,8 @@ Part of the [graphs research group](https://www-2.dc.uba.ar/grupinv/grafos/) and
 
 ## Publications
 ### Preprints
+- **Kernelization dichotomies for hitting minors under structural parameterizations** ([arXiv](https://arxiv.org/abs/2512.13210)). Marin Bougeret, Eric Brandwein, Ignasi Sau. Accepted for [STACS 2026](https://stacs2026.imag.fr/).
+
 - **Computing parameters that generalize interval graphs using restricted modular partitions**. Flavia Bonomo-Braberman, Eric Brandwein, Ignasi Sau. Sent for review.
 
 ### In conferences
@@ -48,7 +50,7 @@ https://doi.org/10.48550/arXiv.2303.06070)). Flavia Bonomo-Braberman, Eric Brand
 - **February 2019 - February 2020**: *Teaching Assistant (Ayudante de 2da)*, Algoritmos y Estructuras de Datos I, Departamento de Computación, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Buenos Aires, Argentina
 
 ## Talks
-<!-- - **Kernelization dichotomies for hitting minors under structural parameterizations** ([Slides](/assets/talks/ALGCo-2025.pdf)). Séminaire ALGCo, LIRMM, Montpellier, France, October 2025, joint work with Marin Bougeret and Ignasi Sau.<br> -->
+- **Kernelization dichotomies for hitting minors under structural parameterizations** ([Slides](/assets/talks/ALGCo-2025.pdf)). Séminaire ALGCo, LIRMM, Montpellier, France, October 2025, joint work with Marin Bougeret and Ignasi Sau.<br>
 - **Parameterized algorithms for thinness via the cluster module number** ([Slides](/assets/talks/LAWCG-2024.pdf)). 11th Latin American Workshop on Cliques in Graphs, Ceará, Brazil, October 2024, joint work with Flavia Bonomo and Ignasi Sau.<br>
 - **Parameterized algorithms for thinness via the cluster module number** ([Slides](/assets/talks/SINFIN-2024.pdf)). Workshop SINFIN, Ciudad Autónoma de Buenos Aires, Argentina, March 2024, joint work with Flavia Bonomo and Ignasi Sau.
 
