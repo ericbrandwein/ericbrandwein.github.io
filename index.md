@@ -29,7 +29,7 @@ Part of the [graphs research group](https://www-2.dc.uba.ar/grupinv/grafos/) and
 ### Preprints
 - **Kernelization dichotomies for hitting minors under structural parameterizations** ([arXiv](https://arxiv.org/abs/2512.13210)). Marin Bougeret, Eric Brandwein, Ignasi Sau. Accepted for [STACS 2026](https://stacs2026.imag.fr/).
 
-- **Computing parameters that generalize interval graphs using restricted modular partitions**. Flavia Bonomo-Braberman, Eric Brandwein, Ignasi Sau. Sent for review.
+- **Computing parameters that generalize interval graphs using restricted modular partitions** ([arXiv](https://arxiv.org/abs/2512.22975)). Flavia Bonomo-Braberman, Eric Brandwein, Ignasi Sau. Sent for review.
 
 ### In conferences
 <!-- - **Caracterización de grafos trivially perfect de proper thinness 2** ([Abstract](http://union-matematica.org.ar/reunion2025/comunicaciones/resumen?conference=1&code=11088)) Flavia Bonomo, Eric Brandwein, Ignacio Maqueda, Bárbara Rivero (2025). UMA   -->
