@@ -59,6 +59,7 @@ https://doi.org/10.48550/arXiv.2303.06070)). Flavia Bonomo-Braberman, Eric Brand
 
 | Name | Degree | Role | Topic | Status |
 |----------|------------|----------|-----------|------------|
+| **Germán Rud** | Licenciado en Ciencias de Datos, Departamento de Computación, Universidad de Buenos Aires, Buenos Aires, Argentina | Supervisor | Measuring distance to bipartite graphs via forbidden colored patterns | in progress |
 | **Ezequiel Maidanik** | Licenciado en Ciencias de la Computación, Departamento de Computación, Universidad de Buenos Aires, Buenos Aires, Argentina | Supervisor | Thinness of split graphs | in progress |
 | **Bárbara Rivero** | Licenciada en Ciencias de la Computación, Departamento de Computación, Universidad de Buenos Aires, Buenos Aires, Argentina | Supervisor | Trivially perfect graphs with proper thinness 2 | in progress |
 | **Manuela Martínez** | Licenciada en Ciencias de la Computación, Departamento de Computación, Universidad de Buenos Aires, Buenos Aires, Argentina | Co-supervisor | Interactive webpage for graph parameters | in progress |
