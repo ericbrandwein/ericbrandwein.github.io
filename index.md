@@ -27,12 +27,11 @@ Part of the [graphs research group](https://www-2.dc.uba.ar/grupinv/grafos/) and
 
 ## Publications
 ### Preprints
-- **Kernelization dichotomies for hitting minors under structural parameterizations** ([arXiv](https://arxiv.org/abs/2512.13210)). Marin Bougeret, Eric Brandwein, Ignasi Sau. Accepted for [STACS 2026](https://stacs2026.imag.fr/).
-
 - **Computing parameters that generalize interval graphs using restricted modular partitions** ([arXiv](https://arxiv.org/abs/2512.22975)). Flavia Bonomo-Braberman, Eric Brandwein, Ignasi Sau. Sent for review.
 
 ### In conferences
 <!-- - **Caracterización de grafos trivially perfect de proper thinness 2** ([Abstract](http://union-matematica.org.ar/reunion2025/comunicaciones/resumen?conference=1&code=11088)) Flavia Bonomo, Eric Brandwein, Ignacio Maqueda, Bárbara Rivero (2025). UMA   -->
+- **Kernelization dichotomies for hitting minors under structural parameterizations** ([DOI](https://doi.org/10.4230/LIPIcs.STACS.2026.17), [arXiv](https://arxiv.org/abs/2512.13210)). Marin Bougeret, Eric Brandwein, Ignasi Sau (2026). 43rd International Symposium on Theoretical Aspects of Computer Science (STACS 2026), 17:1--17:19. Leibniz International Proceedings in Informatics (LIPIcs).
 - **Thinness 2 condicionada a órdenes de co-bipartición** ([Link](https://revistas.unlp.edu.ar/JAIIO/article/view/19450)) Ayelén Dinkel, Flavia Bonomo-Braberman, Eric Brandwein (2025). JAIIO, Jornadas Argentinas De Informática, 11(14), 98-111.
 - **On the Thinness of Trees** ([DOI](https://doi.org/10.1007/978-3-031-18530-4_14), [arXiv](
 https://doi.org/10.48550/arXiv.2501.11157)). Flavia Bonomo-Braberman, Eric Brandwein, Carolina Lucía Gonzalez, Agustín Sansone (2022). Combinatorial Optimization. ISCO 2022. Lecture Notes in Computer Science, vol 13526. Springer, Cham.
@@ -88,6 +87,6 @@ Reviewer for [LAGOS 2025](https://lagos.mat.br/lagos2025/), [ISAAC 2024](https:/
 ## Languages
 - **Spanish**: Native<br>
 - **English**: Fluent (CAE, University of Cambridge)<br>
-- **Italian**: Basic knowledge<br>
+- **Italian**: Intermediate<br>
 - **French**: Basic knowledge
 
