@@ -6,9 +6,9 @@ title: Eric Brandwein
 ## About me
 
 
-PhD student and senior teaching assistant at the Departamento de Computación, Universidad de Buenos Aires (UBA), Argentina. My research interests include graph parameters and parameterized complexity.
+I'm a PhD student and senior teaching assistant at the Departamento de Computación, Universidad de Buenos Aires (UBA), Argentina. My research interests include graph parameters and parameterized complexity.
 
-Part of the [graphs research group](https://www-2.dc.uba.ar/grupinv/grafos/) and organizer of the [Graphs Seminar](https://web.dm.uba.ar/index.php/investigacion/seminarios/seminario-grafos) at Universidad de Buenos Aires.
+I'm part of the [graphs research group](https://www-2.dc.uba.ar/grupinv/grafos/) and of the organizing team for the [Graphs Seminar](https://web.dm.uba.ar/index.php/investigacion/seminarios/seminario-grafos) at Universidad de Buenos Aires.
 
 [[Education](#education)] - [[Publications](#publications)] - [[Teaching](#teaching)] - [[Talks](#talks)] - [[Students](#students)] - [[Committees](#committees)] - [[Article refereeing](#article-refereeing)] - [[Grants and scholarships](#grants-and-scholarships)] - [[Other work experience](#other-work-experience)] - [[Languages](#languages)] - [[Research interests](#research-interests)]
 
