@@ -50,6 +50,7 @@ https://doi.org/10.48550/arXiv.2303.06070)). Flavia Bonomo-Braberman, Eric Brand
 - **February 2019 - February 2020**: *Teaching Assistant (Ayudante de 2da)*, Algoritmos y Estructuras de Datos I, Departamento de Computación, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, Buenos Aires, Argentina
 
 ## Talks
+- **Dicotomías de kernelización para minor hitting** ([Slides in Spanish](/assets/talks/EIG-2026.pdf)). I Encuentro Invernal de Grafos, Departamento de Matemáticas, Universidad Nacional de San Luis, San Luis, July 2026. Joint work with Marin Bougeret and Ignasi Sau.
 - **¡Péguenles a esos (grafos) menores!** ([Slides in Spanish](/assets/talks/seminario-grafos-2026.pdf)). Seminario de grafos, Facultad de Ciencias Exactas y Naturales, Universidad de Buenos Aires, April 2026. Joint work with Marin Bougeret and Ignasi Sau.
 - **Kernelization dichotomies for hitting minors under structural parameterizations** ([Slides](/assets/talks/ALGCo-2025.pdf)). Séminaire ALGCo, LIRMM, Montpellier, France, October 2025, joint work with Marin Bougeret and Ignasi Sau.<br>
 - **Parameterized algorithms for thinness via the cluster module number** ([Slides](/assets/talks/LAWCG-2024.pdf)). 11th Latin American Workshop on Cliques in Graphs, Ceará, Brazil, October 2024, joint work with Flavia Bonomo and Ignasi Sau.<br>
