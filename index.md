@@ -17,7 +17,7 @@ I'm part of the [graphs research group](https://www-2.dc.uba.ar/grupinv/grafos/)
 - **Institution**: Universidad de Buenos Aires<br>
 - **Advisor**: [Flavia Bonomo](https://staff.dc.uba.ar/fbonomo/)<br>
 - **Co-advisor**: [Ignasi Sau Valls](https://www.lirmm.fr/~sau/)<br>
-- **Dissertation topic**: Graph thinness and related parameters.
+- **Dissertation topic**: Kernelization in parameterized complexity.
 
 ### **2015 – 2022**: Master's in Computer Science (Licenciatura en Ciencias de la Computación)
 - **Institution**: Universidad de Buenos Aires<br>
